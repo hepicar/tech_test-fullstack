@@ -26,6 +26,11 @@ Your task is to create a CRUD application using the provided JSON file. The appl
 - Edit an existing service
 - Delete a service
 
+You have one week from the date you received the email to complete the Technical Test. 
+
 ## Submission
 
 Once you have completed the task, please share the link to your repository with erzha.hepicar@gmail.com.
+
+
+##### Good luck with the test!
